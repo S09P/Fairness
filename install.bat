@@ -12,5 +12,5 @@ echo Installing Streamlit...
 pip install streamlit
 
 echo Starting app...
-streamlit run app5
+streamlit run app5.py
 pause
