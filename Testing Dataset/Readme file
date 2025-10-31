@@ -1,0 +1,10 @@
+These are some testing dataset with their protected attributes and target attributes.
+Compas Dataset:-(Protected attributes:-[sex, race] Target attribute:- Probability)
+Student Dataset:-(Protected attributes:-[sex] Target attribute:- Probability)
+Health Dataset:-(Protected attributes:-[age] Target attribute:- Probability)
+Bank Dataset:-(Protected attributes:-[age] Target attribute:- Probability)
+Meps15 Dataset:-(Protected attributes:-[race] Target attribute:- Probability)
+Meps16 Dataset:-(Protected attributes:-[race] Target attribute:- Probability)
+Default Dataset:-(Protected attributes:-[sex, race] Target attribute:- Probability)
+Adult Dataset:-(Protected attributes:-[sex, race] Target attribute:- Probability)
+German Dataset:-(Protected attributes:-[sex] Target attribute:- Probability)
